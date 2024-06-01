@@ -4,6 +4,7 @@ Large language models: spikes and experiments to demonstrate core concepts
 
 ## Concepts
 - [ ] Prompt engineering
+- [ ] local LLM
 - [ ] Fine tuning
 - [ ] Agent: function calling
 - [ ] Agentic RAG
